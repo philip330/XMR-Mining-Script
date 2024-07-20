@@ -135,7 +135,7 @@ echo -e "\e[94m    #+#    #+# #+#    #+# #+#    #+#    #+#       "
 echo -e "\e[94m    #########  ###    ###  ########     ###       "
 echo -e "\e[94m          XMR Miner Script by _Dreyannz_          "
 echo -e "\e[94m                                                  "
-read -p "            Wallet Address  : "  WalletAdd
+read -p "            Wallet Address  : "  4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGjSt2PabJFJ44QxXf
 clear
 echo -e "                                                        "
 echo -e "\e[94m    :::::::::  :::::::::   ::::::::  :::   :::    "
@@ -147,7 +147,7 @@ echo -e "\e[94m    #+#    #+# #+#    #+# #+#    #+#    #+#       "
 echo -e "\e[94m    #########  ###    ###  ########     ###       "
 echo -e "\e[94m          XMR Miner Script by _Dreyannz_          "
 echo -e "\e[94m                                                  "
-read -p "            Worker Name     : "  WorkerName
+read -p "            Worker Name     : "  100
 clear
 echo -e "                                                        "
 echo -e "\e[94m    :::::::::  :::::::::   ::::::::  :::   :::    "
